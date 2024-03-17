@@ -1,0 +1,20 @@
+In a matrix such as this,
+
+    467..114..
+    ...*......
+    ..35..633.
+    ......#...
+    617*......
+    .....+.58.
+    ..592.....
+    ......755.
+    ...$.*....
+    .664.598..
+
+Find the sum of all numbers adjacent to a symbol*. (part 1)
+
+* - a symbol is anything but a digit or dot, while each position has 8 adjacent ones, except the ones on the edge
+
+Find the sum of all gear ratios*. (part 2)
+
+* - a gear is a '*' sumbol adjacent to two numbers, its gear ratio is the product of said two

@@ -1,0 +1,16 @@
+Problem Description
+
+The bag contains 12 red cubes, 13 green cubes, and 14 blue cubes.
+In each game, an Elf takes turns (indicated by ; ) taking out a handful of cubes.
+
+
+Part 1
+
+What's the sum of ID's of the games which are possible?
+
+
+Part 2
+
+A minimum set of cubes is a set with the least number of cubes possible with which the game could've been played.
+Power(set of cubes) = r * g * b
+What's the sum of powers?

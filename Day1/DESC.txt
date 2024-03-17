@@ -1,0 +1,23 @@
+Problem Description
+
+Each line of input is made up of characters and 1/2 digits.
+A 2-digit number can be extracted from every line.
+Example:
+    pqr3stu8vwx -> 38
+    treb7uchet  -> 77
+    a1b2c3d4e5f -> 15 (*)
+
+
+Part 1
+
+Find the sum of these numbers.
+
+
+Part 2
+
+A digit could be written with a word...
+Example:
+    two1nine      -> 29
+    eightwothree  -> 83
+    7pqrstsixteen -> 76
+Now do the same as for Part 1.
